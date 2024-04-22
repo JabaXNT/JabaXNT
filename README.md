@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Restorumba](https://github.com/JabaXNT/Restorumba)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
