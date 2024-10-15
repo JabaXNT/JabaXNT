@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Java/Kotlin Backend developer</h3>
 
-- 🔭 I’m currently working on [Restorumba](https://github.com/JabaXNT/Restorumba)
+- 🔭 Currently working in yandex
 
 <p align="left">
 </p>
