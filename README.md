@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Java/Kotlin Backend developer</h3>
 
-- 🎵 ex yandex music developer
+- 🎵 Ex Yandex Music
 - 💵 Currently working in T-Bank
 
 <p align="left">
